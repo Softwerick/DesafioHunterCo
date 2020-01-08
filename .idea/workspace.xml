@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb548dcc-57f4-4a07-996b-7f4c502b3d9d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1W21eNd8XEdg5uswTjFFVXRQFoB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/Program Files/nodejs/node.exe" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Node.js.ex2.js">
+    <configuration name="ex1.js" type="NodeJSConfigurationType" temporary="true" path-to-node="C:/Program Files/nodejs/node" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ex1.js" working-dir="$PROJECT_DIR$">
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
+        <browser start="true" url="http://localhost:8888" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+    <configuration name="ex2.js" type="NodeJSConfigurationType" temporary="true" path-to-node="C:/Program Files/nodejs/node" nameIsGenerated="true" path-to-js-file="ex2.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="ex3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ex3.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="ex4.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ex4.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.ex1.js" />
+      <item itemvalue="Node.js.ex2.js" />
+      <item itemvalue="Node.js.ex3.js" />
+      <item itemvalue="Node.js.ex4.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.ex2.js" />
+        <item itemvalue="Node.js.ex1.js" />
+        <item itemvalue="Node.js.ex4.js" />
+        <item itemvalue="Node.js.ex3.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb548dcc-57f4-4a07-996b-7f4c502b3d9d" name="Default Changelist" comment="" />
+      <created>1578332969365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578332969365</updated>
+      <workItem from="1578332971698" duration="9564000" />
+      <workItem from="1578369610899" duration="1228000" />
+      <workItem from="1578426292744" duration="2028000" />
+      <workItem from="1578428483813" duration="17000" />
+      <workItem from="1578433336798" duration="248000" />
+      <workItem from="1578452073199" duration="1118000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2231" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578346580368">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1578333417626" />
+    <state x="2231" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1440.860@1920.0.1440.860" timestamp="1578346580368" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1578333301554">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1578333301554" />
+    <state width="1419" height="266" key="GridCell.Tab.0.bottom" timestamp="1578453295686">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state width="1362" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1578334655884" />
+    <state width="1419" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1440.860@1920.0.1440.860" timestamp="1578453295686" />
+    <state width="1419" height="266" key="GridCell.Tab.0.center" timestamp="1578453295686">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state width="1362" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1578334655884" />
+    <state width="1419" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1440.860@1920.0.1440.860" timestamp="1578453295686" />
+    <state width="1419" height="266" key="GridCell.Tab.0.left" timestamp="1578453295686">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state width="1362" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1578334655884" />
+    <state width="1419" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1440.860@1920.0.1440.860" timestamp="1578453295686" />
+    <state width="1419" height="266" key="GridCell.Tab.0.right" timestamp="1578453295686">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state width="1362" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1578334655884" />
+    <state width="1419" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1440.860@1920.0.1440.860" timestamp="1578453295686" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1578333502437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1578333502437" />
+    <state x="677" y="329" key="jetbrains.nodejs.interpreters-dialog" timestamp="1578333028511">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="677" y="329" key="jetbrains.nodejs.interpreters-dialog/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1578333028511" />
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1578333690824">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1578333690824" />
+  </component>
+</project>
